@@ -1,0 +1,10 @@
+[
+  {
+    "package": "beeswarm",
+    "oncran": true
+  },
+  {
+    "package": "squash",
+    "oncran": true
+  }
+]
