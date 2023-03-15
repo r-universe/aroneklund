@@ -1,10 +1,10 @@
 [
   {
-    "package": "beeswarm",
+    "package": "squash",
     "oncran": true
   },
   {
-    "package": "squash",
+    "package": "beeswarm",
     "oncran": true
   }
 ]
